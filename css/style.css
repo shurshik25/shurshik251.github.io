@@ -1,0 +1,29 @@
+body {
+	background-color: #937070;
+	color: #000; 
+}
+
+.top-meniu {
+	z-index: 999;
+}
+
+.box {
+	margin-top: 55px;
+}
+
+.tel-fon {
+	font-size: 24px;
+	margin-right: 30px;
+	/*margin-top: 10px*/
+}
+
+.main-card {
+	margin-top: 1rem;
+}
+
+.top-h1 {
+	color: #F2F2F2;	
+	font-size: 26px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
